@@ -482,19 +482,21 @@
 
 				.wrapper.style2 .major h2 {
 					display: block;
-					margin-bottom: 0.70em;
+					margin-bottom: 0.40em;
 					letter-spacing: 1px;
-					line-height: 1.2em;
+					line-height: 1.6em;
 					text-transform: uppercase;
-					font-size: 1.8em;
-					font-weight: 400;
+					font-size: 1.4em;
+					font-weight: 500;
 				}
 
 				.wrapper.style2 .major .byline {
 					letter-spacing: normal;
-					line-height: 1.2em;
+					line-height: 1.6em;
 					text-transform: lowercase;
 					font-size: 1.4em;
+					font-weight: 500;
+					text-align: justify;
 				}
 
 			.wrapper.style2 h3 {
@@ -515,8 +517,8 @@
 		}
 
 			.wrapper.style3 .container {
-				padding-left: 6em;
-				padding-right: 6em;
+				padding-left: 3em;
+				padding-right: 3em;
 			}
 
 			.wrapper.style3 p {
